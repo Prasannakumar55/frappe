@@ -1,0 +1,43 @@
+.Nav{
+    background-color: rgb(72, 255, 0);
+    height: 40px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Icons{
+    border-radius: 50%;
+    position: relative;
+    left: -5px;
+    top: 2.5px;
+    padding: 5px;
+    padding-right: 5px;
+    margin: 40px;
+}
+.material-icons{
+    width: 20px;
+    position: relative;
+    top: 5px;  
+}
+.anchor{
+    color: white;
+    background-color: rgb(255, 118, 141);
+    border-radius: 5px;
+    padding: 4px;
+    margin: 10px;
+}
+.anchor:hover{
+    color: rgb(195, 195, 195);
+}
+#open,#close{
+    color: rgb(255, 255, 255);
+    background-color: orangered;
+    border: hidden;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding-bottom: 35px;  
+    padding-left: 25px;
+}
+
+ 

@@ -1,0 +1,61 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(0, 200, 255);
+}
+.lable1{
+    font-size: 25px;
+    padding: 2px;
+}
+.input1{
+    width: 200px;
+    height: 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: rgba(255, 191, 0, 0.801);
+    border: hidden;
+    padding-bottom: 35px;
+    margin: auto;
+}
+
+.information1{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(0, 255, 42);
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.information{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 1200px;
+    background-color: rgb(200, 255, 0);
+    margin: auto;
+    border-radius: 10px;
+}
+.Forms{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 250px;
+    padding: 50px;
+    background-color:rgb(255, 192, 203);
+    margin: auto;
+    border-radius: 10px;
+}
+h1{
+    width: 480px;
+    background-color: rgba(0, 234, 255, 0.238);
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
